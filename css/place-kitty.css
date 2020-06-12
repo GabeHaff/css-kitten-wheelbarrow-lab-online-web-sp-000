@@ -17,8 +17,6 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-/*<div id="basket">
-      <img src="images/kitty-3.png" alt="kitty 3">*/
 
 #basket img {
   position: absolute;
