@@ -20,7 +20,7 @@
 /*<div id="basket">
       <img src="images/kitty-3.png" alt="kitty 3">*/
 
-basket kitty-3 {
+#basket img {
   position: absolute;
   z-index: 5;
   top: 291px;
