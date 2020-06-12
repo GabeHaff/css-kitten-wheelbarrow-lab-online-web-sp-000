@@ -30,7 +30,7 @@
     <img src="images/kitty-4.png" alt="kitty 4">
     */
 
- {
+#ball + img {
   position: absolute;
   z-index: 4;
   top: 260px;
